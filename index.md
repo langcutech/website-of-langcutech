@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages 台灣語言文化與資訊協會
+## 台灣語言文化與資訊協會
 
-You can use the [editor on GitHub](https://github.com/langcutech/website-of-langcutech/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+本會為依法設立、非以營利為目的之公益性社會團體，以推動台灣語言學人才培育，促進語言跨領域研究與社會文化應用為宗旨。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 本會任務
 
-### Markdown
+1. 新世代語言學人才培育。
+2. 獎助青年研究者從事語言學相關研究。
+3. 提供語言相關之社會服務。
+4. 促進台灣多元語言之發展。
+5. 促進語言學跨領域之國內外交流活動。
+6. 其他與章程所定宗旨及任務相關事項。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### 最新公告
 
-# Header 1
-## Header 2
-### Header 3
+2021/09/14 ｜ 新網站建設中......
 
-- Bulleted
-- List
+### 聯絡我們
+E-mail：
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/langcutech/website-of-langcutech/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
