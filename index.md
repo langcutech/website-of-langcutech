@@ -15,7 +15,7 @@
 
 # 最新發展
 
-2021/09/24 ｜ 公開招募會員[公告](https://github.com/langcutech/website-of-langcutech/blob/513bf77e19b574828b7294f9f07a7090d730a12c/%E5%85%AC%E9%96%8B%E6%8B%9B%E5%8B%9F%E6%9C%83%E5%93%A1%E5%85%AC%E5%91%8A.pdf)  
+2021/09/24 ｜ 公開招募會員[公告](/公開招募會員公告.pdf)  
 2021/09/14 ｜ 新網站建設中......
 
 
