@@ -14,7 +14,7 @@
 目前我們的主要聯繫方式是E-mail：langcutech@gmail.com
 
 # 最新發展
-2021/10/08 ｜ 〈推廣活動〉**[語言學超音波工作坊](https://sbs-ntu.github.io/2021-ultrasound-workshop/)** 帶你認識超音波在語言學上的應用 
+2021/10/08 ｜ 〈推廣活動〉**[語言學超音波工作坊](https://sbs-ntu.github.io/2021-ultrasound-workshop/)** 帶你認識超音波在語言學上的應用   
 2021/09/24 ｜ 公開招募會員[公告](/公開招募會員公告.pdf)  
 2021/09/14 ｜ 新網站建設中......
 
